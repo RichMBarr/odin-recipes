@@ -1,2 +1,2 @@
 # odin-recipes
-New project practicing HTML
+"New project practicing HTML"
